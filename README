@@ -1,0 +1,12 @@
+Name: Riley Becker
+
+Date: 5/16/25
+
+Task: Use Pyserial, implement Python code to an Arduino program.
+
+Implementation: Use Pyserial to upload Python code to Arduino. Then
+implement my Python game to implement hardware-controlled features
+including a Joystick, many LEDs...
+
+Purpose: Learn to use Arduino by implementing Python Code for my
+Hardware Projects.
