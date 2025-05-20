@@ -26,6 +26,10 @@ and into (venv)
 
 Compile:
 I use a script to make compilation easier: 'gamerun'
+TYPE INTO TERMINAL:
+alias gamerun='python/Users/rileybecker/Documents/EngineeringProjects/CodingPassionProjects/Python/PythonGameArduino/venv/PyGameFinalGameRileyBecker/main.py'
+source ~/.zshrc  # or ~/.bashrc
+gamerun
 You can also compile by doing cd into the directory that contains '__main__.py'
 then pressing the triangle on the upper left side of the screen
 
